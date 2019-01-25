@@ -26,21 +26,21 @@ msgstr ""
 #
 #: Controller/Component/RecaptchaComponent.php:108
 msgid "You must set your private recaptcha key using Configure::write('Recaptcha.privateKey', 'your-key');!"
-msgstr "Debes configurar tu clave privada de recaptcha usando Configure::write('Recaptcha.privateKey', 'your-key');"
+msgstr "Tiene que configurar su clave privada de recaptcha usando Configure::write('Recaptcha.privateKey', 'your-key');"
 
 #: Controller/Component/RecaptchaComponent.php:152
 msgid "Invalid API response, please contact the site admin."
-msgstr ""
+msgstr "Respuesta del API inválida. Por favor contacte con el administrador de la web"
 
 #: Controller/Component/RecaptchaComponent.php:161
 msgid "Incorrect captcha"
-msgstr "Transcripción incorrecta"
+msgstr "Respuesta del reto incorrecta"
 
 #: View/Helper/RecaptchaHelper.php:177
 msgid "To use reCAPTCHA Mailhide, you need to have the mcrypt php module installed."
-msgstr "Para usar la función de oculatar emails de reCAPTCHA , debes tener el modulo mcrypt de php instalado."
+msgstr "Es necesario tener instalado el módulo PHP mcrypt para usar la función Mailhide de reCAPTCHA."
 
 #: View/Helper/RecaptchaHelper.php:207
 msgid "You need to set a private and public mail hide key. Please visit https://www.google.com/recaptcha/mailhide/apikey"
-msgstr "Debes configurar tus claves públicas y privadas de \"mail hide\". Por favor visita https://www.google.com/recaptcha/mailhide/apikey"
+msgstr "Es necesario configurar la clave pública y privada de mail hide. Para más informacion visite https://www.google.com/recaptcha/mailhide/apikey"
 
